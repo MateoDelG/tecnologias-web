@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Device 1",
+    "type": "pressure",
+    "status": "inactive"
+  },
+  {
+    "id": 2,
+    "name": "Device 2",
+    "type": "temperature",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Device 3",
+    "type": "pressure",
+    "status": "inactive"
+  },
+  {
+    "id": 4,
+    "name": "Device 4",
+    "type": "temperature",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "Device 5",
+    "type": "speed",
+    "status": "inactive"
+  },
+  {
+    "id": 6,
+    "name": "Device 6",
+    "type": "speed",
+    "status": "inactive"
+  },
+  {
+    "id": 7,
+    "name": "Device 7",
+    "type": "pressure",
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "name": "Device 8",
+    "type": "temperature",
+    "status": "inactive"
+  },
+  {
+    "id": 9,
+    "name": "Device 9",
+    "type": "pressure",
+    "status": "inactive"
+  },
+  {
+    "id": 10,
+    "name": "Device 10",
+    "type": "speed",
+    "status": "inactive"
+  }
+]
