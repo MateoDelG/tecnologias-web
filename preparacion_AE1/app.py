@@ -219,4 +219,3 @@ def delete_device(device_id):
 if __name__ == "__main__":
     app.run(debug=True)
 
-    "añadir requirements.txt"
