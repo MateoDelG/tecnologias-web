@@ -1,11 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Device 1",
-    "type": "pressure",
-    "status": "inactive"
-  },
-  {
     "id": 2,
     "name": "Device 2",
     "type": "temperature",
@@ -14,14 +8,14 @@
   {
     "id": 3,
     "name": "Device 3",
-    "type": "pressure",
-    "status": "inactive"
+    "type": "speed",
+    "status": "active"
   },
   {
     "id": 4,
     "name": "Device 4",
     "type": "temperature",
-    "status": "active"
+    "status": "inactive"
   },
   {
     "id": 5,
@@ -32,8 +26,8 @@
   {
     "id": 6,
     "name": "Device 6",
-    "type": "speed",
-    "status": "inactive"
+    "type": "pressure",
+    "status": "active"
   },
   {
     "id": 7,
@@ -44,18 +38,30 @@
   {
     "id": 8,
     "name": "Device 8",
-    "type": "temperature",
+    "type": "pressure",
     "status": "inactive"
   },
   {
     "id": 9,
     "name": "Device 9",
     "type": "pressure",
-    "status": "inactive"
+    "status": "active"
   },
   {
     "id": 10,
     "name": "Device 10",
+    "type": "temperature",
+    "status": "active"
+  },
+  {
+    "id": 11,
+    "name": "Device 20",
+    "type": "speed",
+    "status": "inactive"
+  },
+  {
+    "id": 12,
+    "name": "Device POST test 1",
     "type": "speed",
     "status": "inactive"
   }
